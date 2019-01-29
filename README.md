@@ -1,7 +1,7 @@
-# Calcium_Signaling_Astrocytes
+# Calcium_Signaling_Analysis
 Developed on 01/15/2019.
 
-Pipeline written in MATLAB to analyze Calcium Signaling data from astrocytes. I first proccess the imaging data using an open-source software Suite2p, and use the output from it as the input for this pipeline.  
+Pipeline written in MATLAB to analyze Calcium Signaling video data acquired from live awake mice, using a two-photon microscope. I first proccess the imaging data using the open-source software Suite2p, and use the output from it as the input for this pipeline.  
 
 Output:
 - Find and plot spikes and its characteristics (amplitudes, locations, widths, prominences)
