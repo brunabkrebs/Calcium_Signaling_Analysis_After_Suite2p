@@ -1,7 +1,7 @@
 # Calcium_Signaling_Astrocytes
 Developed on 01/15/2019.
 
-Pipeline written in MATLAB to analyze Calcium Signaling data from Astrocytes. The image data is acquired from live mice using a two-photon microscope. The acquisition software is NIS Elements. I first proccess the imaging data using an open-source software Suite2p, and use the output from it as the input for this pipeline.  
+Pipeline written in MATLAB to analyze Calcium Signaling data from astrocytes. The image data is acquired from live mice using a two-photon microscope, 200um below the pia surface, in the Somatosensory cortex 1 region. The acquisition software is NIS Elements. I first proccess the imaging data using an open-source software Suite2p, and use the output from it as the input for this pipeline.  
 
 Output:
 - Find and plot spikes and its characteristics (amplitudes, locations, widths, prominences)
